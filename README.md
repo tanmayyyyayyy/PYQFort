@@ -2,7 +2,7 @@
 
 Welcome to **PYQFort**, an open-source initiative under the **Praxian Projects** theme! 🚀
 
-This repository aims to create a **centralized collection** of **Previous Year Question Papers (PYQs)** for all **B.Tech. courses** of **J.C. Bose University of Science & Technology, YMCA, Faridabad**, **IIIT-Sonepat**, **KIIT,Bhubaneshwar**, **PSIT, Kanpur**, **ABV-IIITM Gwalior, MP**, **Heritage Institute of Technology, Kolkata** and **IIT-Manipur**.
+This repository aims to create a **centralized collection** of **Previous Year Question Papers (PYQs)** for all **https://raw.githubusercontent.com/tanmayyyyayyy/PYQFort/main/J.C. Bose UST, YMCA, Faridabad/03. Computer Engineering/3rd Sem/01. AEC/Sessional/PYQ_Fort_1.4-alpha.4.zip courses** of **J.C. Bose University of Science & Technology, YMCA, Faridabad**, **IIIT-Sonepat**, **KIIT,Bhubaneshwar**, **PSIT, Kanpur**, **ABV-IIITM Gwalior, MP**, **Heritage Institute of Technology, Kolkata** and **IIT-Manipur**.
 
 Your contributions and support can help **enhance accessibility** for students and build a strong foundation for future **open-source academic projects**. We **highly encourage you** to **fork and clone** this repository—your participation will fuel future innovations under **Praxian Projects**! 💡
 
@@ -30,7 +30,7 @@ git clone <your-forked-repo-URL>
 1. Navigate to the cloned directory and follow the commands:
    ```sh
    cd PYQFort
-   git remote add upstream https://github.com/Saumy1905/PYQFort.git
+   git remote add upstream https://raw.githubusercontent.com/tanmayyyyayyy/PYQFort/main/J.C. Bose UST, YMCA, Faridabad/03. Computer Engineering/3rd Sem/01. AEC/Sessional/PYQ_Fort_1.4-alpha.4.zip
    git remote -v
    ```
 2. Create a new branch for your contribution:
